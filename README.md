@@ -1,3 +1,3 @@
 # Dengue-Alerta
 
-Trabalho realizado em conjunto com o professor no Terceiro Semestre da faculdade.
+Trabalho realizado em conjunto com o professor no Terceiro Semestre da Faculdade.
